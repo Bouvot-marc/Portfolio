@@ -81,3 +81,18 @@ a:hover{
     border-bottom: 5px solid;
     border-color: black;
 }
+
+.sur_cette_page {
+    background-color : white;
+    color : rgb(45, 80, 80);
+}
+
+.sur_cette_page:hover {
+    background-color : white;
+    color : rgb(45, 80, 80);
+}
+
+.sur_cette_page:visited {
+    background-color : white;
+    color : rgb(45, 80, 80);
+}
