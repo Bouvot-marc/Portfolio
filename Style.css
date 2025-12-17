@@ -60,6 +60,7 @@ a:hover{
 
 .retour:hover {
     color : red;
+    opacity: 0.6;
 }
 
 .retour:visited {
@@ -85,6 +86,10 @@ a:hover{
 .sur_cette_page {
     background-color : white;
     color : rgb(45, 80, 80);
+    border : 5px double;
+    border-color: rgb(45, 80, 80);
+    border-radius: 10px;
+    font-weight: bold;
 }
 
 .sur_cette_page:hover {
